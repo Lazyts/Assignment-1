@@ -23,7 +23,9 @@
                 "It's kind of fun to do the impossible.",    
                 "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.",
                 "When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
-                "When you're curious, you find lots of interesting things to do.",    
+                "When you're curious, you find lots of interesting things to do.",
+                "All our dreams can come true, if we have the courage to pursue them.",
+                "Fantasy and reality often overlap.",    
                 "If you can dream it, you can do it. ");
                 $random_keys = array_rand($quotes,2);
                 echo $quotes[$random_keys[0]]."<br>";
