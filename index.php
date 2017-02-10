@@ -8,7 +8,7 @@
     <body>
         <div class="container">
             <h1>Chen Shen</h1>
-            <img src="profilepic.jpg" alt="dusty" height="350" width="auto">
+            <img src="profilepic.jpg" alt="dusty" height="350" width="175">
             <h2>About me</h2>
             
             <p>The above is a picture of Dusty. Male, single and ready to mingle~</p>
