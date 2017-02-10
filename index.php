@@ -13,7 +13,7 @@
             
             <p>The above is a picture of Dusty. Male, single and ready to mingle~</p>
             <p>I was born and raised in Sichuan, China, where is oftenly seen as "szechuan" for spicy Chinese food. 
-            I worked in fashion industry for a few years and now I am a real estate agent. I believe digital media is the future and I do want to learn more. </p>
+            I worked in fashion industry for a few years and now I am a real estate agent. I believe digital media is the future and I'm dying to learn more. </p>
             <h2>Walt Disney Quote</h2>
             <p>
                 <?php
